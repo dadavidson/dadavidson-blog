@@ -8,6 +8,7 @@ weight: 3
 👋 Hi, I'm **Daniel** 
 
 *Cybersecurity Analyst*
+
 My background is in Network and Security Engineering.
 For questions and inqueries, please reach out to me on [LinkedIn](https://linkedin.com/in/danieldav). CV available upon request.
 
