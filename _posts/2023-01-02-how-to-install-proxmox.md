@@ -144,8 +144,4 @@ reboot
 
 Now, you’re ready to set up your first virtual machine. Select **Create VM** in the top right to create your first virtual machine hosted on Proxmox.
 
-## Conclusion
-
-Next time we'll discuss how to create your first VM (Virtual Machine) in Proxmox so stay tuned! 
-
 Thanks for reading!
