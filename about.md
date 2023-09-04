@@ -5,7 +5,7 @@ permalink: /about/
 weight: 3
 ---
 
-Hi, I'm **Daniel** <br>
+Hi, I'm **Daniel** <br> 👋
 
 *Cybersecurity Analyst*
 My background is in Network and Security Engineering.
