@@ -19,7 +19,7 @@ CV available upon request.
 
 > *"How great is the sum of thy thoughts? If I should count them, they are more in number than the sand."*
 
-This site serves as an external memory source to note and share my experiences. It is my intention through this endeavor to document resources and findings that I have to found to be critical to my progress as a infosec professional. I hope, not only will this be a learning experience for myself, but a resource for others as well.
+This site serves as an external memory source to note and share my experiences. It is my intention through this endeavor to document resources and findings that I have to found to be critical to my progress as an information security professional. I hope, not only will this be a learning experience for myself, but a resource for others as well.
 
 <!--![](https://i.imgur.com/j2scMHA.png){: width="700"}-->
 
