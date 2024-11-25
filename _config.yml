@@ -12,7 +12,7 @@ mode: dark # default theme "dark" | "light"
 author:
   name: pyr0sec # author name
   bio: >- # tell to the world
-    Just another infosec blog.
+    Just another InfoSec blog.
   username: username # general username
   github: dadavidson # github username
   twitter: twitter_username # twitter username
