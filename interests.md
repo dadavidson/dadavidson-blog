@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Interests
-permalink: /interests
+permalink: /interests/
 weight: 3
 ---
 
