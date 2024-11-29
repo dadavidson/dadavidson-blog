@@ -6,3 +6,11 @@ weight: 3
 ---
 
 The [Interests](/interests) page is simply where I share what I'm doing, reading, listening to, watching, making, learning, etc…
+
+## Working on
+
+- Work work
+
+## Reading
+
+- *Nothing*
