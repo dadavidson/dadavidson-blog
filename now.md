@@ -18,3 +18,12 @@ The [/log](/log) page is simply where I share what I'm doing, reading, listening
 ## Learning
 
 - [Azure Fundametals (AZ-900)](https://learn.microsoft.com/en-us/training/courses/az-900t00)
+
+## Training
+
+- Going to the gym. [Training split](https://hevy.com/user/pyr0lifts)
+
+## Watching
+
+- *Nothing*
+  
