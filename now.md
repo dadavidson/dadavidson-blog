@@ -11,8 +11,6 @@ The [/now](/now) page is simply where I share what I'm doing, reading, listening
 
 - Work work
 
-![idimetrix's github activity graph](https://raw.githubusercontent.com/dadavidson/dadavidson/output/github-contribution-grid-snake-dark.svg)
-
 <a href="https://github.com/dadavidson"><img src="https://ghchart.rshah.org/dadavidson"/></a>
 
 ## Reading
