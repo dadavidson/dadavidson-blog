@@ -55,8 +55,8 @@ Check out my reading list at [Goodreads.com](https://www.goodreads.com/user/show
     <noscript><br />Share <a rel="nofollow" href="/">book reviews</a> and ratings with Daniel, and even join a <a rel="nofollow" href="/group">book club</a> on Goodreads.</noscript>
   </div>
 </div>
-<script src="https://www.goodreads.com/review/grid_widget/6505848.Daniel's%20read%20book%20montage?cover_size=small&hide_link=true&hide_title=true&num_books=12&order=d&shelf=read&sort=date_read&widget_id=1732994897" type="text/javascript" charset="utf-8"></script>
-<p></p>
+<script src="https://www.goodreads.com/review/grid_widget/6505848.Daniel's%20read%20book%20montage?cover_size=small&hide_link=true&hide_title=true&num_books=12&order=d&shelf=read&sort=date_read&widget_id=1732994897" type="text/javascript" charset="utf-8"></script><br>
+<div></div>
 
 ## Learning
 
