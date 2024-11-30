@@ -12,9 +12,9 @@ The [/now](/now) page is simply where I share what I'm doing, reading, listening
 - Work work
 
 ## Reading
-*[Full reading list](https://www.goodreads.com/user/show/6505848-daniel)*
+Check out my reading list at [Goodreads.com](https://www.goodreads.com/user/show/6505848-daniel)
 
-- [The Flowers of Buffoonery](https://www.goodreads.com/book/show/61340205-the-flowers-of-buffoonery) by Osamu Dazai
+- *[The Flowers of Buffoonery](https://www.goodreads.com/book/show/61340205-the-flowers-of-buffoonery)* by Osamu Dazai
 
 ## Learning
 
