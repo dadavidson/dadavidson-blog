@@ -60,7 +60,7 @@ My training split / workouts all logged via the [Hevy workout app](https://hevy.
 
 ##### <u>Day 4: Rest</u>
 
-Day 5: Upper (Shoulder Emphasis)
+##### <u>Day 5: Upper (Shoulder Emphasis)</u>
 - Pike Push Up (Calisthenics Skill Progression)
 - Shoulder Press
 - Lateral Raise
