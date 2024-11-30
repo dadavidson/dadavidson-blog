@@ -10,13 +10,15 @@ The [/now](/now) page is simply where I share what I'm doing, reading, listening
 ## Working on
 
 - Work work
+
+<a href="https://github.com/dadavidson">
+    <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=dadavidson" />
+</a>
+<a href="https://github.com/dadavidson">
+    <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=dadavidson&layout=compact&langs_count=8&card_width=320" />
+</a>
+
 <div align="center">
-    <a href="https://github.com/dadavidson">
-        <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=dadavidson" />
-    </a>
-    <a href="https://github.com/dadavidson">
-        <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=dadavidson&layout=compact&langs_count=8&card_width=320" />
-    </a>
     <a href="https://github.com/dadavidson">
         <img align="center" src="https://ghchart.rshah.org/dadavidson"/>
     </a>
