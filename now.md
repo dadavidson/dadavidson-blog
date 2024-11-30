@@ -13,7 +13,6 @@ The [/now](/now) page is simply where I share what I'm doing, reading, listening
 
 ## Reading
 
-<p></p>
 
 <style type="text/css" media="screen">
   .gr_grid_container {
@@ -43,7 +42,6 @@ The [/now](/now) page is simply where I share what I'm doing, reading, listening
 
 - *[A General Introduction to Psychoanalysis: Sigmund Freud](https://www.goodreads.com/book/show/140997573-a-general-introduction-to-psychoanalysis)*, G. Stanley Hall
 
-<p></p>
 
 Check out my reading list at [Goodreads.com](https://www.goodreads.com/user/show/6505848-daniel)
 <style type="text/css" media="screen">
