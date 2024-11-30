@@ -43,13 +43,10 @@ Check out my reading list at [Goodreads.com](https://www.goodreads.com/user/show
     <div class="gr_grid_book_container"><a title="The Moon Over the Mountain: Stories" rel="nofollow" href="https://www.goodreads.com/book/show/9811918-the-moon-over-the-mountain"><img alt="The Moon Over the Mountain: Stories" border="0" src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1328774498l/9811918._SX98_.jpg" /></a></div>
     <div class="gr_grid_book_container"><a title="The Catcher in the Rye" rel="nofollow" href="https://www.goodreads.com/book/show/5107.The_Catcher_in_the_Rye"><img alt="The Catcher in the Rye" border="0" src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1398034300l/5107._SX98_.jpg" /></a></div>
     <div class="gr_grid_book_container"><a title="The Setting Sun" rel="nofollow" href="https://www.goodreads.com/book/show/194740.The_Setting_Sun"><img alt="The Setting Sun" border="0" src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1385206185l/194740._SX98_.jpg" /></a></div>
-    <div class="gr_grid_book_container"><a title="No Longer Human" rel="nofollow" href="https://www.goodreads.com/book/show/194746.No_Longer_Human"><img alt="No Longer Human" border="0" src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1422638843l/194746._SX98_.jpg" /></a></div>
-    <div class="gr_grid_book_container"><a title="Linux Basics for Hackers: Getting Started with Networking, Scripting, and Security in Kali" rel="nofollow" href="https://www.goodreads.com/book/show/37845940-linux-basics-for-hackers"><img alt="Linux Basics for Hackers: Getting Started with Networking, Scripting, and Security in Kali" border="0" src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1515306341l/37845940._SX98_.jpg" /></a></div>
     <noscript><br />Share <a rel="nofollow" href="/">book reviews</a> and ratings with Daniel, and even join a <a rel="nofollow" href="/group">book club</a> on Goodreads.</noscript>
   </div>
-
 </div>
-<script src="https://www.goodreads.com/review/grid_widget/6505848.Daniel's%20read%20book%20montage?cover_size=medium&hide_link=true&hide_title=true&num_books=12&order=d&shelf=read&sort=date_read&widget_id=1732994644" type="text/javascript" charset="utf-8"></script><br>
+<script src="https://www.goodreads.com/review/grid_widget/6505848.Daniel's%20read%20book%20montage?cover_size=medium&hide_link=true&hide_title=true&num_books=12&order=d&shelf=read&sort=date_read&widget_id=1732994644" type="text/javascript" charset="utf-8"></script></br>
 
 ## Learning
 
