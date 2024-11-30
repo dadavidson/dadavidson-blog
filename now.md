@@ -19,11 +19,11 @@ The [/log](/log) page is simply where I share what I'm doing, reading, listening
 ## Learning
 
 - Finishing up my B.Sc. degree in Cyber Security and Information Assurance at [WGU](https://wgu.edu)
-- [Azure Fundametals (AZ-900)](https://learn.microsoft.com/en-us/training/courses/az-900t00)
+- Azure Fundametals Certification, [(AZ-900)](https://learn.microsoft.com/en-us/training/courses/az-900t00)
 
 ## Training
 
-- Going to the gym - [Training Split](/physical-training/)
+- Going to the gym, check out my [Training Split](/physical-training/)
 
 ## Watching
 
