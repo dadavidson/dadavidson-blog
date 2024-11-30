@@ -4,7 +4,7 @@ title: "Physical Training"
 date: 2024-11-29 11:00:00
 style: border
 color: primary
-tags: [fitness, health]
+tags: [Fitness, Health]
 description: My current training splits / workout
 ---
 
