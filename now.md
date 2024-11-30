@@ -39,7 +39,11 @@ The [/now](/now) page is simply where I share what I'm doing, reading, listening
 </div>
 <script src="https://www.goodreads.com/review/grid_widget/6505848.Daniel's%20currently-reading%20book%20montage?cover_size=medium&hide_link=true&hide_title=true&num_books=200&order=d&shelf=currently-reading&sort=date_read&widget_id=1732992069" type="text/javascript" charset="utf-8"></script> 
 
+<p></p>
+
 - *[A General Introduction to Psychoanalysis: Sigmund Freud](https://www.goodreads.com/book/show/140997573-a-general-introduction-to-psychoanalysis)*, G. Stanley Hall
+
+<p></p>
 
 Check out my reading list at [Goodreads.com](https://www.goodreads.com/user/show/6505848-daniel)
 <style type="text/css" media="screen">
