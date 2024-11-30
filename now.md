@@ -11,6 +11,8 @@ The [/now](/now) page is simply where I share what I'm doing, reading, listening
 
 - Work work
 
+<img src="https://ghchart.rshah.org/dadavidson"/>
+
 ## Reading
 
 - *[A General Introduction to Psychoanalysis: Sigmund Freud](https://www.goodreads.com/book/show/140997573-a-general-introduction-to-psychoanalysis)*, G. Stanley Hall
