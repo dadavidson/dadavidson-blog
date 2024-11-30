@@ -22,6 +22,8 @@ The [/now](/now) page is simply where I share what I'm doing, reading, listening
 
 - *[A General Introduction to Psychoanalysis: Sigmund Freud](https://www.goodreads.com/book/show/140997573-a-general-introduction-to-psychoanalysis)*, G. Stanley Hall
 
+<br>
+
 <style type="text/css" media="screen">
   .gr_grid_container {
     /* customize grid container div here. eg: width: 500px; */
@@ -56,7 +58,7 @@ The [/now](/now) page is simply where I share what I'm doing, reading, listening
 </div>
 <script src="https://www.goodreads.com/review/grid_widget/6505848.Daniel's%20read%20book%20montage?cover_size=small&hide_link=true&hide_title=true&num_books=12&order=d&shelf=read&sort=date_read&widget_id=1732994897" type="text/javascript" charset="utf-8"></script>
 
-<p><br><br></p>
+<p><br><br><br></p>
 
 Check out my reading list at [Goodreads.com](https://www.goodreads.com/user/show/6505848-daniel)
 
