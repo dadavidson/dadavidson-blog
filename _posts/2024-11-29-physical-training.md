@@ -11,7 +11,7 @@ description: My current training splits / workout
 # Training Split
 ---
 
-> [!quote] In order to win, you must expect to win.
+> In order to win, you must expect to win.
 > — Richard Bach
 
 My training split / workouts all logged via the [Hevy workout app](https://hevy.com/user/pyr0lifts). I do all of these at ~4 sets, 6-15 reps. Once I'm able to reach 15 reps then I increase the weight or increase the intensity through [progressive overload](https://www.medicalnewstoday.com/articles/progressive-overload#workout-plan-examples).
