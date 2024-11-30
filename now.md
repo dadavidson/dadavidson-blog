@@ -23,7 +23,7 @@ The [/log](/log) page is simply where I share what I'm doing, reading, listening
 
 ## Training
 
-- Going to the gym: [Training Split](/physical-training/)
+- Going to the gym - [Training Split](/physical-training/)
 
 ## Watching
 
