@@ -5,7 +5,7 @@ permalink: /now/
 weight: 3
 ---
 
-The [/log](/log) page is simply where I share what I'm doing, reading, listening to, watching, making, learning, etc…
+The [/now](/now) page is simply where I share what I'm doing, reading, listening to, watching, making, learning, etc…
 
 ## Working on
 
