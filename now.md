@@ -47,7 +47,6 @@ Check out my reading list at [Goodreads.com](https://www.goodreads.com/user/show
     <div class="gr_grid_book_container"><a title="Linux Basics for Hackers: Getting Started with Networking, Scripting, and Security in Kali" rel="nofollow" href="https://www.goodreads.com/book/show/37845940-linux-basics-for-hackers"><img alt="Linux Basics for Hackers: Getting Started with Networking, Scripting, and Security in Kali" border="0" src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1515306341l/37845940._SX50_.jpg" /></a></div>
     <noscript><br />Share <a rel="nofollow" href="/">book reviews</a> and ratings with Daniel, and even join a <a rel="nofollow" href="/group">book club</a> on Goodreads.</noscript>
   </div>
-
 </div>
 <script src="https://www.goodreads.com/review/grid_widget/6505848.Daniel's%20read%20book%20montage?cover_size=small&hide_link=true&hide_title=true&num_books=12&order=d&shelf=read&sort=date_read&widget_id=1732994897" type="text/javascript" charset="utf-8"></script><br>
 
