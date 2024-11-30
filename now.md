@@ -13,7 +13,7 @@ The [/now](/now) page is simply where I share what I'm doing, reading, listening
 
 ## Reading
 
-<style type="text/css" media="screen">
+<br><style type="text/css" media="screen">
   .gr_grid_container {
     /* customize grid container div here. eg: width: 500px; */
   }
@@ -35,9 +35,11 @@ The [/now](/now) page is simply where I share what I'm doing, reading, listening
   </div>
 
 </div>
-<script src="https://www.goodreads.com/review/grid_widget/6505848.Daniel's%20currently-reading%20book%20montage?cover_size=medium&hide_link=true&hide_title=true&num_books=200&order=d&shelf=currently-reading&sort=date_read&widget_id=1732992069" type="text/javascript" charset="utf-8"></script> 
+<script src="https://www.goodreads.com/review/grid_widget/6505848.Daniel's%20currently-reading%20book%20montage?cover_size=medium&hide_link=true&hide_title=true&num_books=200&order=d&shelf=currently-reading&sort=date_read&widget_id=1732992069" type="text/javascript" charset="utf-8"></script>&ensp; 
 
-- *[A General Introduction to Psychoanalysis: Sigmund Freud](https://www.goodreads.com/book/show/140997573-a-general-introduction-to-psychoanalysis)*, G. Stanley Hall
+*[A General Introduction to Psychoanalysis: Sigmund Freud](https://www.goodreads.com/book/show/140997573-a-general-introduction-to-psychoanalysis)*, G. Stanley Hall
+
+<br>
 
 Check out my reading list at [Goodreads.com](https://www.goodreads.com/user/show/6505848-daniel)
 <style type="text/css" media="screen">
@@ -81,7 +83,7 @@ Check out my reading list at [Goodreads.com](https://www.goodreads.com/user/show
   </div>
 
 </div>
-<script src="https://www.goodreads.com/review/grid_widget/6505848.Daniel's%20read%20book%20montage?cover_size=small&hide_link=true&hide_title=true&num_books=200&order=d&shelf=read&sort=date_read&widget_id=1732991671" type="text/javascript" charset="utf-8"></script>
+<script src="https://www.goodreads.com/review/grid_widget/6505848.Daniel's%20read%20book%20montage?cover_size=small&hide_link=true&hide_title=true&num_books=200&order=d&shelf=read&sort=date_read&widget_id=1732991671" type="text/javascript" charset="utf-8"></script><br>
 
 ## Learning
 
