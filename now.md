@@ -13,35 +13,7 @@ The [/now](/now) page is simply where I share what I'm doing, reading, listening
 
 ## Reading
 
-
-<style type="text/css" media="screen">
-  .gr_grid_container {
-    /* customize grid container div here. eg: width: 500px; */
-  }
-
-  .gr_grid_book_container {
-    /* customize book cover container div here */
-    float: left;
-    width: 98px;
-    height: 160px;
-    padding: 0px 0px;
-    overflow: hidden;
-  }
-</style>
-<div id="gr_grid_widget_1732992069">
-  <!-- Show static html as a placeholder in case js is not enabled - javascript include will override this if things work -->
-  <div class="gr_grid_container">
-    <div class="gr_grid_book_container"><a title="A General Introduction to Psychoanalysis: Sigmund Freud" rel="nofollow" href="https://www.goodreads.com/book/show/140997573-a-general-introduction-to-psychoanalysis"><img alt="A General Introduction to Psychoanalysis: Sigmund Freud" border="0" src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1697002561l/140997573._SX98_.jpg" /></a></div>
-    <noscript><br />Share <a rel="nofollow" href="/">book reviews</a> and ratings with Daniel, and even join a <a rel="nofollow" href="/group">book club</a> on Goodreads.</noscript>
-  </div>
-
-</div>
-<script src="https://www.goodreads.com/review/grid_widget/6505848.Daniel's%20currently-reading%20book%20montage?cover_size=medium&hide_link=true&hide_title=true&num_books=200&order=d&shelf=currently-reading&sort=date_read&widget_id=1732992069" type="text/javascript" charset="utf-8"></script> 
-
-<p>&nbsp;</p>
-
 - *[A General Introduction to Psychoanalysis: Sigmund Freud](https://www.goodreads.com/book/show/140997573-a-general-introduction-to-psychoanalysis)*, G. Stanley Hall
-
 
 Check out my reading list at [Goodreads.com](https://www.goodreads.com/user/show/6505848-daniel)
 <style type="text/css" media="screen">
