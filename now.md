@@ -18,12 +18,6 @@ The [/now](/now) page is simply where I share what I'm doing, reading, listening
     <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=dadavidson&layout=compact&langs_count=8&card_width=320" />
 </a>
 
-<div align="center">
-    <a href="https://github.com/dadavidson">
-        <img align="center" src="https://ghchart.rshah.org/dadavidson"/>
-    </a>
-</div>
-
 ## Reading
 
 - *[A General Introduction to Psychoanalysis: Sigmund Freud](https://www.goodreads.com/book/show/140997573-a-general-introduction-to-psychoanalysis)*, G. Stanley Hall
