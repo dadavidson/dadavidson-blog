@@ -11,7 +11,12 @@ The [/now](/now) page is simply where I share what I'm doing, reading, listening
 
 - Work work
 
-[![dadavidson GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=dadavidson&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/dadavidson/github-readme-stats#gh-dark-mode-only)
+<a href="https://github.com/dadavidson/github-readme-stats">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=dadavidson" />
+</a>
+<a href="https://github.com/dadavidson/convoychat">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=dadavidson&layout=compact&langs_count=8&card_width=320" />
+</a>
 
 <a href="https://github.com/dadavidson"><img src="https://ghchart.rshah.org/dadavidson"/></a>
 
