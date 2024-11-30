@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Log
-permalink: /log/
+title: Now
+permalink: /now/
 weight: 3
 ---
 
