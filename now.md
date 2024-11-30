@@ -62,7 +62,7 @@ The [/now](/now) page is simply where I share what I'm doing, reading, listening
 <script src="https://www.goodreads.com/review/grid_widget/6505848.Daniel's%20read%20book%20montage?cover_size=small&hide_link=true&hide_title=true&num_books=16&order=d&shelf=read&sort=date_read&widget_id=1733001852" type="text/javascript" charset="utf-8"></script>
 
 <p><br></p>
-<p><br></p>
+<br>
 
 Check out my reading list at [Goodreads.com](https://www.goodreads.com/user/show/6505848-daniel)
 
