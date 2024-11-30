@@ -56,6 +56,7 @@ My training split / workouts all logged via the [Hevy workout app](https://hevy.
 - Calf Raise
 
 ##### <u>Day 4: Rest</u>
+- Stretching
 
 ##### <u>Day 5: Upper (Shoulder Emphasis)</u>
 - Pike Push Up (Calisthenics Skill Progression)
@@ -76,6 +77,7 @@ My training split / workouts all logged via the [Hevy workout app](https://hevy.
 - Hammer Curl
 
 ##### <u>Day 7: Rest</u>
+- Stretching
 
 > "In order to win, you must expect to win."
 > — Richard Bach
