@@ -22,8 +22,6 @@ The [/now](/now) page is simply where I share what I'm doing, reading, listening
 
 - *[A General Introduction to Psychoanalysis: Sigmund Freud](https://www.goodreads.com/book/show/140997573-a-general-introduction-to-psychoanalysis)*, G. Stanley Hall
 
-<br>
-
 <style type="text/css" media="screen">
   .gr_grid_container {
     /* customize grid container div here. eg: width: 500px; */
