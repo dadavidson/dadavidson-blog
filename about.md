@@ -5,13 +5,17 @@ permalink: /about/
 weight: 1
 ---
 
-👋 Hi, I'm **Daniel**
+**Daniel Davidson**, Security Analyst
+**Education:** B.Sc. Cybersecurity and Information Assurance
 
-*Security Analyst*
-
-My background is in information security.
 For questions and inqueries, please reach out to me on [LinkedIn](https://linkedin.com/in/danieldav).
-CV available upon request.
+
+Outside of work, I enjoy:
+- programming
+- writing poetry
+- playing guitar & piano
+- weightlifting & calesthenics
+- studying a wide of range of topics in the humanities and social sciences
 
 ------
 
