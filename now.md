@@ -68,7 +68,7 @@ Check out my reading list at [Goodreads.com](https://www.goodreads.com/user/show
 ## Learning
 
 - Finishing up my B.Sc. degree in Cyber Security and Information Assurance at [WGU](https://wgu.edu)
-- Microsoft Azure Fundametals, [(AZ-900 certification)](https://learn.microsoft.com/en-us/training/courses/az-900t00)
+- Microsoft Azure Fundamentals, [(AZ-900 certification)](https://learn.microsoft.com/en-us/training/courses/az-900t00)
 
 ## Training
 
