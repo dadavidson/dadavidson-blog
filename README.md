@@ -1,3 +1,3 @@
-# ddavidson.vercel.app
+# ddavidson.github.io
 
 Personal Blog
