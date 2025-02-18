@@ -1,7 +1,7 @@
 # Site settings
 title: dadavidson # site title
 description: >- # site description
-  Cloud
+  Cloud | Security | DevOps
 lang: en-US # default lang
 timezone: US/Chicago # set your timezone
 image: #assets/img/ogp.png # This image used for Open Graph more info https://ogp.me/
@@ -10,9 +10,9 @@ mode: dark # default theme "dark" | "light"
 
 # Profile settings
 author:
-  name: dadavidson # author name
+  name: Daniel Davidson # author name
   bio: >- # tell to the world
-    Cloud
+    Cloud | Security | DevOps
   username: username # general username
   github: dadavidson # github username
   twitter: twitter_username # twitter username
