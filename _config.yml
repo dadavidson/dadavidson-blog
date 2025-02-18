@@ -1,7 +1,7 @@
 # Site settings
-title: pyr0sec # site title
+title: Daniel Davidson # site title
 description: >- # site description
-  Just another InfoSec blog.
+  Cloud | DevOps| Security
 lang: en-US # default lang
 timezone: US/Chicago # set your timezone
 image: #assets/img/ogp.png # This image used for Open Graph more info https://ogp.me/
@@ -10,9 +10,9 @@ mode: dark # default theme "dark" | "light"
 
 # Profile settings
 author:
-  name: pyr0sec # author name
+  name: Daniel Davidson # author name
   bio: >- # tell to the world
-    Just another InfoSec blog.
+    Cloud | DevOps| Security
   username: username # general username
   github: dadavidson # github username
   twitter: twitter_username # twitter username
@@ -21,7 +21,7 @@ author:
   avatar: /assets/img/pyro.gif # change with your own avatar
 
 # URL settings
-url: "https://pyr0sec.vercel.app/" #
+url: "https://dadavidson.vercel.app/" #
 baseurl:
 permalink: /:title/
 google_analytics: # leave it blank if not wish
