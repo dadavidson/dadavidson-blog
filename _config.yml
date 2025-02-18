@@ -21,7 +21,7 @@ author:
   avatar: /assets/img/pyro.gif # change with your own avatar
 
 # URL settings
-url: "https://dadavidson-blog.github.io/" #
+url: "https://ddavidson.vercel.app/" #
 baseurl:
 permalink: /:title/
 google_analytics: # leave it blank if not wish
