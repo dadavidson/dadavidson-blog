@@ -13,8 +13,6 @@ weight: 1
 
 For questions and inqueries, please reach out to me on [LinkedIn](https://linkedin.com/in/danieldav).
 
-------
-
 # About this site
 
 > *"How great is the sum of thy thoughts? If I should count them, they are more in number than the sand."*
