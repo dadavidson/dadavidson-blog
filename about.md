@@ -6,16 +6,12 @@ weight: 1
 ---
 
 **Daniel Davidson**, Security Analyst
+
 **Education:** B.Sc. Cybersecurity and Information Assurance
 
-For questions and inqueries, please reach out to me on [LinkedIn](https://linkedin.com/in/danieldav).
+**Hobbies & Interests:** tech, guitar, weightlifting, learning
 
-Outside of work, I enjoy:
-- programming
-- writing poetry
-- playing guitar & piano
-- weightlifting & calesthenics
-- studying a wide of range of topics in the humanities and social sciences
+For questions and inqueries, please reach out to me on [LinkedIn](https://linkedin.com/in/danieldav).
 
 ------
 
