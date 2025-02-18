@@ -190,8 +190,10 @@
   }
 
   .author-avatar {
-    width: 80px;
-    height: 80px;
+    // width: 70px; default
+    // height: 70px; default
+    width: 100px;
+    height: 100px;
     border-radius: 100%;
     user-select: none;
     background-color: $black;
