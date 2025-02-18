@@ -13,7 +13,3 @@
 - title: archive
   url: /archive/
   external: false
-
-- title: now
-  url: /now/
-  external: false # set true if you using external link, see below
