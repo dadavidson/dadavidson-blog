@@ -1,5 +1,5 @@
 # Site settings
-title: dadavidson.github.io # site title
+title: dadavidson.io # site title
 description: >- # site description
   Cloud | Security | DevOps
 lang: en-US # default lang
@@ -21,7 +21,7 @@ author:
   avatar: /assets/img/pyro.gif # change with your own avatar
 
 # URL settings
-url: "https://ddavidson.github.io/" #
+url: "https://dadavidson.io/" #
 baseurl:
 permalink: /:title/
 google_analytics: # leave it blank if not wish
